@@ -134,13 +134,16 @@ table {
     border-spacing: 0;
 }
 
+body{
+    font-family: Bruno Ace SC, sans-serif;
+}
 
-body {
+.conteiner {
     height: 3560px;
     min-height: 3510px;
     max-height: 3610px;
-  }
-  
+}
+
 .color_D1D1D1 {
     color: #D1D1D1;
 }
@@ -354,8 +357,8 @@ body {
 }
 
 .main_img {
-    width: 155px;
-    height: 125px;
+    width: 162px;
+    height: 162px;
     border-radius: 40px;
     gap: 30px;
     margin-left: 20px;
@@ -364,8 +367,8 @@ body {
 }
 
 .main_img:hover {
-    width: 155px;
-    height: 125px;
+    width: 162px;
+    height: 162px;
     border-radius: 40px;
     gap: 30px;
     margin-left: 20px;
@@ -377,8 +380,8 @@ body {
 
 
 .main3_title {
-text-align: end;
-   width: 900px;
+    text-align: end;
+    width: 900px;
 }
 
 
@@ -424,5 +427,5 @@ text-align: end;
 .footer_a {
     color: #FFFFFF;
     align-items: end;
-  
+
 }
